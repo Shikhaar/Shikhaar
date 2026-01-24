@@ -28,37 +28,25 @@ Currently exploring how **LLMs + tools + memory + planning** can work together a
 
 ##  Tech Stack 
 
-###  LLM & Agent Frameworks
-- LangChain  
-- LangGraph  
-- LlamaIndex  
-- OpenAI API  
+###  LLM & Agent Frameworks                                   ###  RAG & Memory
+- LangChain                                                   - FAISS  
+- LangGraph                                                   - ChromaDB  
+- LlamaIndex                                                  - Pinecone  
+- OpenAI API                                                  - Embeddings (OpenAI / HF)  
 - Hugging Face Transformers  
 - MCP (Model Context Protocol)  
 
-###  RAG & Memory
-- FAISS  
-- ChromaDB  
-- Pinecone  
-- Embeddings (OpenAI / HF)  
 
-###  AI / ML
-- Machine Learning  
-- Deep Learning  
-- CNNs  
-- NLP  
-- Prompt Engineering  
-
-###  Programming & Tools
-- Python  
-- C++  
-- JavaScript  
-- Git & GitHub  
-- Docker (learning)  
-- Streamlit  
-- FastAPI  
-- Jupyter / Colab  
-
+###  AI / ML                                                  ###  Programming & Tools
+- Machine Learning                                            - Python  
+- Deep Learning                                               - C++  
+- CNNs                                                        - JavaScript  
+- NLP                                                         - Git & GitHub  
+- Prompt Engineering                                          - Docker (learning)  
+                                                              - Streamlit 
+                                                              - FastAPI  
+                                                              - Jupyter / Colab
+                                                                 
 ---
 
 ##  Featured Work
@@ -71,7 +59,7 @@ Currently exploring how **LLMs + tools + memory + planning** can work together a
 
    ![When the model finally works](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR4MWJtbTB6d2x1dG9uM3p4b3Z3ZzFyb2p4Z2E1aTZjNnJvYyZlcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufdipQqU2lhNA4g/giphy.gif)
                                                                       
-                                                                      > “It worked… but I don’t know why.”  
+ > “It worked… but I don’t know why.”  
 
 ---
 
@@ -81,9 +69,8 @@ Currently exploring how **LLMs + tools + memory + planning** can work together a
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shikhaar&layout=compact)
 
 ---
-
-##  GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Shikhaar)
+## GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shikhaar&theme=default)
 
 ---
 
