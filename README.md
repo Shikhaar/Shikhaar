@@ -69,7 +69,7 @@ Currently exploring how **LLMs + tools + memory + planning** can work together a
 
 ---
 
-                                                                      ![When the model finally works](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR4MWJtbTB6d2x1dG9uM3p4b3Z3ZzFyb2p4Z2E1aTZjNnJvYyZlcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufdipQqU2lhNA4g/giphy.gif)
+   ![When the model finally works](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR4MWJtbTB6d2x1dG9uM3p4b3Z3ZzFyb2p4Z2E1aTZjNnJvYyZlcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufdipQqU2lhNA4g/giphy.gif)
                                                                       
                                                                       > “It worked… but I don’t know why.”  
 
