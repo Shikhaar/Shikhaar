@@ -6,16 +6,6 @@ Aspiring AI Engineer | Agentic AI Builder | RAG & LLM Systems
 
 ---
 
-## About Me  
-
-I'm a Computer Science student deeply interested in **Agentic AI systems, LLM-powered applications, and retrieval-augmented generation (RAG).
-
-I love building autonomous agents, experimenting with multi-agent workflows, and turning LLMs into real-world problem solvers - not just chatbots.
-
-Currently exploring how **LLMs + tools + memory + planning can work together as intelligent systems.
-
----
-
 🌱 Currently Exploring
 -  Agentic AI Architectures
 -  RAG Pipelines (Vector DBs + LLMs)
@@ -48,14 +38,16 @@ Currently exploring how **LLMs + tools + memory + planning can work together as 
   <img src="assets/coding-meme.jpeg" width="400"/>
 </p>
 
-<p align="center"><i>When debugging gets serious</i></p>
-
 ---
 
 ##  GitHub Stats
-![Shikhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shikhaar&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shikhaar&show_icons=true" alt="Shikhar's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shikhaar&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikhaar&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
