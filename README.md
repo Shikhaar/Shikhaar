@@ -6,7 +6,8 @@ Aspiring AI Engineer | Agentic AI Builder | RAG & LLM Systems
 
 ---
 
-About Me  
+## About Me  
+
 I'm a Computer Science student deeply interested in **Agentic AI systems**, **LLM-powered applications**, and **retrieval-augmented generation (RAG)**.
 
 I love building **autonomous agents**, experimenting with **multi-agent workflows**, and turning LLMs into **real-world problem solvers** — not just chatbots.
@@ -24,6 +25,42 @@ Currently exploring how **LLMs + tools + memory + planning** can work together a
 -  LLM deployment & evaluation
 
 ---
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,openai,tensorflow,pytorch,huggingface" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=streamlit,react,html,css,js" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jupyter,vscode" />
+</p>
+
+---
+
+## 🤖 Agentic AI • RAG • LLMs
+> LangChain • LangGraph • RAG Pipelines • Vector DBs • MCP  
+> Tool-using agents • Memory • Planning • Evaluation
+
+---
+
+## 😂 Coder Mood
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" />
+</p>
+
+<p align="center">
+  <i>"It works on my machine."</i>
+</p>
+
 
 ##  Tech Stack (AI Engineer Edition)
 
