@@ -2,7 +2,7 @@
 
 Aspiring AI Engineer | Agentic AI Builder | RAG & LLM Systems 
 
-> “I don’t just call models — I design agents that think, plan, and act.”  
+> “I don’t just call models, I design agents that think, plan, and act.”  
 
 ---
 
