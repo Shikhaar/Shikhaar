@@ -35,7 +35,7 @@ Aspiring AI Engineer | Agentic AI Builder | RAG & LLM Systems
 
 ---
 <p align="center">
-  <img src="assets/coding-meme.jpeg" width="400"/>
+  <img src="assets/coding_meme.png" width="400"/>
 </p>
 
 ---
