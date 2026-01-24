@@ -25,42 +25,67 @@ Currently exploring how **LLMs + tools + memory + planning** can work together a
 -  LLM deployment & evaluation
 
 ---
-## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,openai,tensorflow,pytorch,huggingface" />
-</p>
+<div style="display: flex; gap: 40px;">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux" />
-</p>
+  <div style="flex: 1;">
+    <h3>LLM & Agent Frameworks</h3>
+    <ul>
+      <li>LangChain</li>
+      <li>LangGraph</li>
+      <li>LlamaIndex</li>
+      <li>OpenAI API</li>
+      <li>Hugging Face Transformers</li>
+      <li>MCP (Model Context Protocol)</li>
+    </ul>
+  </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=streamlit,react,html,css,js" />
-</p>
+  <div style="flex: 1;">
+    <h3>Programming & Tools</h3>
+    <ul>
+      <li>Python</li>
+      <li>C++</li>
+      <li>JavaScript</li>
+      <li>Git & GitHub</li>
+      <li>Docker (learning)</li>
+      <li>Streamlit</li>
+      <li>FastAPI</li>
+      <li>Jupyter / Colab</li>
+    </ul>
+  </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jupyter,vscode" />
-</p>
+</div>
 
----
+<div style="display: flex; gap: 40px;">
 
-## 🤖 Agentic AI • RAG • LLMs
-> LangChain • LangGraph • RAG Pipelines • Vector DBs • MCP  
-> Tool-using agents • Memory • Planning • Evaluation
+  <div style="flex: 1;">
+    <h3>RAG & Memory</h3>
+    <ul>
+      <li>FAISS</li>
+      <li>ChromaDB</li>
+      <li>Pinecone</li>
+      <li>Embeddings (OpenAI / HF)</li>
+    </ul>
+  </div>
 
----
+  <div style="flex: 1;">
+    <h3>AI / ML</h3>
+    <ul>
+      <li>Machine Learning</li>
+      <li>Deep Learning</li>
+      <li>CNNs</li>
+      <li>NLP</li>
+      <li>Prompt Engineering</li>
+    </ul>
+  </div>
 
-## 😂 Coder Mood
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" />
-</p>
-
-<p align="center">
-  <i>"It works on my machine."</i>
-</p>
-
+## 🔬 Featured Work
+- Agentic AI Systems (planning + tool use)
+- RAG-based Knowledge Assistants
+- LLM-powered Dashboards & APIs
+- AI Experiments & Research Prototypes
 
 ##  Tech Stack (AI Engineer Edition)
 
