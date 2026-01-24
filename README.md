@@ -26,26 +26,19 @@ Currently exploring how **LLMs + tools + memory + planning** can work together a
 
 ---
 
-##  Tech Stack 
+## Tech Stack
 
-###  LLM & Agent Frameworks                                   ###  RAG & Memory
-- LangChain                                                   - FAISS  
-- LangGraph                                                   - ChromaDB  
-- LlamaIndex                                                  - Pinecone  
-- OpenAI API                                                  - Embeddings (OpenAI / HF)  
-- Hugging Face Transformers  
-- MCP (Model Context Protocol)  
+| Category | Technologies |
+|-------------|------------------|
+| LLM & Agent Frameworks | LangChain · LangGraph · LlamaIndex · OpenAI API · Hugging Face Transformers · MCP (Model Context Protocol) |
+| RAG & Memory | FAISS · ChromaDB · Pinecone · Embeddings (OpenAI / HF) |
+| AI / ML | Machine Learning · Deep Learning · CNNs · NLP · Prompt Engineering |
+| Programming & Tools | Python · C++ · JavaScript · Git & GitHub · Docker · Streamlit · FastAPI · Jupyter / Colab |
 
+## Featured Work
 
-###  AI / ML                                                  ###  Programming & Tools
-- Machine Learning                                            - Python  
-- Deep Learning                                               - C++  
-- CNNs                                                        - JavaScript  
-- NLP                                                         - Git & GitHub  
-- Prompt Engineering                                          - Docker (learning)  
-                                                              - Streamlit 
-                                                              - FastAPI  
-                                                              - Jupyter / Colab
+| Agentic AI Systems (planning + tool use) | RAG-based Knowledge Assistants |
+| LLM-powered Dashboards & APIs | AI Experiments & Research Prototypes |
                                                                  
 ---
 
