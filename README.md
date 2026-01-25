@@ -71,9 +71,9 @@ Aspiring AI Engineer | Agentic AI Builder | RAG & LLM Systems
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikhaar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
     <br/>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shikhaar/Shikhaar/raw/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/Shikhaar/Shikhaar/raw/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://github.com/Shikhaar/Shikhaar/raw/output/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shikhaar/Shikhaar/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shikhaar/Shikhaar/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shikhaar/Shikhaar/output/github-contribution-grid-snake.svg">
     </picture>
   </div>
 </details>
