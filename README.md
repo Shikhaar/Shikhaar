@@ -58,17 +58,25 @@ Aspiring AI Engineer | Agentic AI Builder | RAG & LLM Systems
 
 ### GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shikhaar&show_icons=true&theme=radical&hide_border=true" alt="Shikhar's GitHub Stats" />
+<details>
+  <summary><strong>Expand to see GitHub Stats & Snake 🐍</strong></summary>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikhaar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shikhaar/Shikhaar/raw/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Shikhaar/Shikhaar/raw/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/Shikhaar/Shikhaar/raw/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+  <div align="center">
+    <!-- Visitor Counter -->
+    <img src="https://komarev.com/ghpvc/?username=Shikhaar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <br/><br/>
+    
+    <img src="https://github-readme-stats.vercel.app/api?username=Shikhaar&show_icons=true&theme=radical&hide_border=true" alt="Shikhar's GitHub Stats" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikhaar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <br/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shikhaar/Shikhaar/raw/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/Shikhaar/Shikhaar/raw/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://github.com/Shikhaar/Shikhaar/raw/output/github-contribution-grid-snake.svg">
+    </picture>
+  </div>
+</details>
 
 ---
 
