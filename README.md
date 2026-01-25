@@ -42,7 +42,7 @@ Aspiring AI Engineer | Agentic AI Builder | RAG & LLM Systems
 
 ---
 
-### 🚀 Featured Work
+### Featured Work
 
 - **Agentic AI Systems** — *Planning, reasoning, and tool-use implementation.*
 - **RAG-based Knowledge Assistants** — *Context-aware systems using Vector DBs.*
@@ -56,7 +56,7 @@ Aspiring AI Engineer | Agentic AI Builder | RAG & LLM Systems
 
 ---
 
-### ⚡ GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shikhaar&show_icons=true&theme=radical&hide_border=true" alt="Shikhar's GitHub Stats" />
@@ -68,7 +68,7 @@ Aspiring AI Engineer | Agentic AI Builder | RAG & LLM Systems
 
 <div align="center">
   <h3>Fun Fact</h3>
-  <p><em>Most bugs aren’t bugs — they’re undocumented features waiting for an agent to debug them.</em></p>
+  <p><em>Most bugs aren’t bugs, they’re undocumented features waiting for an agent to debug them.</em></p>
   <br/>
   <p>Thanks for stopping by! Let’s build intelligent systems that actually think.</p>
 </div>
