@@ -1,4 +1,4 @@
-# Hi, I'm Shikhar
+# Hii, I'm Shikhar
 
 Aspiring AI Engineer | Agentic AI Builder | RAG & LLM Systems
 
