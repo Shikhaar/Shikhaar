@@ -70,7 +70,7 @@ Aspiring AI Engineer | Agentic AI Builder | RAG & LLM Systems
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikhaar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <br/>
-  <img src="https://raw.githubusercontent.com/Shikhaar/Shikhaar/output/github-contribution-grid-snake-cyberpunk.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Shikhaar/Shikhaar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 </details>
 
