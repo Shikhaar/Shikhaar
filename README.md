@@ -59,7 +59,7 @@ Aspiring AI Engineer | Agentic AI Builder | RAG & LLM Systems
 ### GitHub Stats
 
 <details>
-  <summary><strong>Expand to see GitHub Stats & Snake</strong></summary>
+  <summary><strong>Expand </strong></summary>
   <br/>
   <div align="center">
     <!-- Visitor Counter -->
