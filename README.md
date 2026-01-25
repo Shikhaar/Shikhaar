@@ -30,7 +30,7 @@ Aspiring AI Engineer | Agentic AI Builder | RAG & LLM Systems
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
