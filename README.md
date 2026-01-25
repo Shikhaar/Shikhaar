@@ -1,4 +1,4 @@
-# Shikhar
+# Hi, I'm Shikhar
 
 Aspiring AI Engineer | Agentic AI Builder | RAG & LLM Systems
 
@@ -11,7 +11,7 @@ Aspiring AI Engineer | Agentic AI Builder | RAG & LLM Systems
   <a href="https://twitter.com/Shikhar3004">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
   </a>
-  <a href="mailto:e22cseu0492@bennett.edu.in">
+  <a href="mailto:shikharsrivastava3004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://leetcode.com/u/Shikhar3004">
