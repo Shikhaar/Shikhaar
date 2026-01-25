@@ -1,30 +1,23 @@
-<div align="center">
-  <img src="assets/header.png" alt="Shikhar - Agentic AI Architect" width="100%" />
+# Shikhar
 
-  <br />
-  
-  <h3>Aspiring AI Engineer | Agentic AI Builder | RAG & LLM Systems</h3>
-  
-  <p>
-    <em>“I don’t just call models, I design agents that think, plan, and act.”</em>
-  </p>
+Aspiring AI Engineer | Agentic AI Builder | RAG & LLM Systems
 
-  <!-- Socials -->
-  <p align="center">
-    <a href="https://linkedin.com/in/shikhar004">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://twitter.com/Shikhar3004">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
-    </a>
-    <a href="mailto:e22cseu0492@bennett.edu.in">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://leetcode.com/u/Shikhar3004">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-  </p>
-</div>
+> “I don’t just call models, I design agents that think, plan, and act.”
+
+<p align="left">
+  <a href="https://linkedin.com/in/shikhar004">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/Shikhar3004">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+  </a>
+  <a href="mailto:e22cseu0492@bennett.edu.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/Shikhar3004">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
 
 ---
 
