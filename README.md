@@ -59,16 +59,12 @@ Aspiring AI Engineer | Agentic AI Builder | RAG & LLM Systems
 ### GitHub Stats
 
 <details>
-  <summary><strong>Expand </strong></summary>
   <br/>
 <div align="center">
   <!-- Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=Shikhaar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <br/><br/>
   
-<img src="https://github-readme-stats.vercel.app/api?username=Shikhaar&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Shikhar's GitHub Stats" />
-  <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikhaar&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />  <br/>
   <img src="https://raw.githubusercontent.com/Shikhaar/Shikhaar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 </details>
