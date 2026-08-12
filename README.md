@@ -83,16 +83,6 @@ TestPilot AI combines **AST analysis, dependency impact analysis, hybrid code re
 
 ---
 
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shikhaar&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-</div>
-
----
-
 <div align="center">
 
 **Building AI systems that are useful, reliable, and production-ready.**
