@@ -28,8 +28,6 @@
 
 Autonomous regression testing. On every PR it finds the affected code paths with AST-based dependency analysis (Tree-sitter), generates targeted tests, runs them in a sandbox, diagnoses failures and posts a review.
 
-<img src="https://raw.githubusercontent.com/Shikhaar/TestPilot-AI/HEAD/docs/images/dashboard.png" alt="TestPilot AI dashboard" width="720" />
-
 - **11 LangGraph agents** with parallel fan-out, fed by 3-layer hybrid retrieval (dense + keyword + disk scan)
 - **32% fewer prompt tokens** from AST-based context pruning, with no drop in test pass rate
 - **4 test frameworks and 4 git hosts**, with Pass@1/Pass@N, repair rate and token cost tracked on every run
